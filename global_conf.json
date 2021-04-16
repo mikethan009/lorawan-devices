@@ -6,7 +6,7 @@
     "radio_0": {
       "enable": true,
       "type": "SX1257",
-      "freq": 902700000,
+      "freq": 905900000,
       "rssi_offset": -166,
       "tx_enable": true,
       "tx_freq_min": 923000000,
@@ -15,7 +15,7 @@
     "radio_1": {
       "enable": true,
       "type": "SX1257",
-      "freq": 903400000,
+      "freq": 906600000,
       "rssi_offset": -166,
       "tx_enable": false
     },
